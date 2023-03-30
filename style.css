@@ -3,7 +3,7 @@
   }
   
   .vertical-menu a {
-    background-color: #eee;
+    background-color: #ff6ab5;
     color: black;
     display: block;
     padding: 12px;
@@ -11,5 +11,5 @@
   }
   
   .vertical-menu a:hover {
-    background-color: #ccc;
+    background-color: #ff6ab5;
   }
